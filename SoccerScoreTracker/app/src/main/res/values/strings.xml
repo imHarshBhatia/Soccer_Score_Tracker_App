@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soccer Score  Tracker</string>
+    <string name="initial_score">0</string>
+    <string name="home_team">Home</string>
+    <string name="away_team">Away</string>
+    <string name="goal">GOAL</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="subs">0</string>
+    <string name="subs_taken">SUBSTITUTE</string>
+</resources>
