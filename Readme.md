@@ -1,8 +1,8 @@
 # Soccer Score Tracking Application
 
-This application is a simple UI to track score and other statistics during a soccer match.
+### This application is a simple UI to track score and other statistics during a soccer match.
 
-The main highlights of the app are -
-    Score Tracking
+ The main highlights of the app are -
+    _Score Tracking
     Foul Tracking with yellow and red card count
-    Substitution count with upper limit.
+    Substitution count with upper limit._
